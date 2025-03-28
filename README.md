@@ -1,6 +1,6 @@
 # MsThesis
 
-Este repositorio contiene código fuente desarrollado para la recopilación y análisis de datos, orientado a experimentos y evaluaciones de desempeño en redes y sensores, para el desarrollo de la tesis de maestría: Implementación y evaluación de algoritmos de cifrado post cuánticos en dispositivos de Edge Computing desplegados en una red de cómputo que emplea el protocolo TCP para fortalecer la seguridad en la capa de transporte. Incluye scripts en Python para análisis estadístico y de tráfico (pcap) y un conjunto de scripts en Bash para la configuración y generación de datos, así como para iniciar servicios y herramientas relacionadas.
+Este repositorio contiene código fuente desarrollado para la recopilación y análisis de datos, orientado a experimentos y evaluaciones de desempeño de algoritmos de cifrado postcuántico desplegados en un dispositivo Edge Computing, para el desarrollo de la tesis de maestría: Implementación y evaluación de algoritmos de cifrado post cuánticos en dispositivos de Edge Computing desplegados en una red de cómputo que emplea el protocolo TCP para fortalecer la seguridad en la capa de transporte. Incluye scripts en Python para análisis estadístico y de tráfico (pcap) y un conjunto de scripts en Bash para la configuración y generación de datos, así como para iniciar servicios y herramientas relacionadas.
 
 ## Contenido del Repositorio
 
